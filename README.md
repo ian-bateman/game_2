@@ -3,4 +3,4 @@
 
 https://ian-bateman.github.io/snake/
 
-Note: Works best in Chrome & Safari browsers.
+__Note:__ Works best in Chrome & Safari browsers.
